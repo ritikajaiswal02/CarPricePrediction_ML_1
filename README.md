@@ -35,10 +35,10 @@ carPricePrediction_ML_1/
 ├── s7_random_forestR/ # Step 7: Random Forest Regressor
 │ └── s7_random_forestR/.py # Training & evaluation of Random Forest model
 |
-├── RFRmodel/                   # Step 7: Final Random Forest Regressor
+├── RFRmodel/                   # Step 8: Final Random Forest Regressor
 │   └── RFRmodel.py          # Trains & saves rfr_model.pkl
 |
-├── model/                      # Step 8: Flask web deployment
+├── model/                      # Step 9: Flask web deployment
 │   ├── app.py                          # Flask app entry point
 │   ├── templates/                      # HTML templates (UI)
 │   │   └── index.html

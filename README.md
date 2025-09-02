@@ -11,6 +11,7 @@ This project demonstrates the **end-to-end workflow of an ML project**, from dat
 
 ## 📂 Project Structure 
 
+```
 carPricePrediction_ML_1/
 │
 ├── s1_visualization/ # Step 1: Data visualization with Linear Regression
@@ -46,6 +47,7 @@ carPricePrediction_ML_1/
 ├── requirements.txt # Dependencies (Flask, scikit-learn, pandas, matplotlib)
 ├── car_price_july25.csv # Dataset for training/testing
 └── README.md # Project documentation
+```
 
 ## 🚀 How to Run the Project
 Run the Flask App - Go to the model folder and start the app:
